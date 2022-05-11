@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024823071284",
+    "project_id": "cancerapy-eb80d",
+    "storage_bucket": "cancerapy-eb80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024823071284:android:18b72815a9888403023061",
+        "android_client_info": {
+          "package_name": "com.example.cancerapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024823071284-akliud70njqo77423q68lrh2ffn0ecv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cancerapy",
+            "certificate_hash": "2b3c27f4c949627215428719163c5ea1fd103ca3"
+          }
+        },
+        {
+          "client_id": "1024823071284-lp46peblafphn3541vevue7vud43thmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Cl5ybg7e_407RtTdda0qZ8nPLnt3iRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024823071284-lp46peblafphn3541vevue7vud43thmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

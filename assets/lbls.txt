@@ -1,0 +1,8 @@
+0 Density1Benign
+1 Density1Malignant
+2 Density2Benign
+3 Density2Malignant
+4 Density3Benign
+5 Density3Malignant
+6 Density4Benign
+7 Density4Malignant
